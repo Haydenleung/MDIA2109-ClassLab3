@@ -24,7 +24,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <Link href="about">About</Link>
         {
           information && information.map((info, index) => {
             if(info.department.toLowerCase() === "business"){

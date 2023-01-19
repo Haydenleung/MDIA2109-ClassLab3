@@ -5,7 +5,6 @@ import styles from '@/styles/Home.module.css'
 import data from '../data/education.json'
 import { useState } from 'react'
 import Card from '@/components/Card'
-import Link from 'next/link'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -24,7 +23,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <Link href="about">About</Link>
         {
           information && information.map((info, index) => {
             if(info.department.toLowerCase() === "business"){
