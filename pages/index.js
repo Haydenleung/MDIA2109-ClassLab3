@@ -1,13 +1,12 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 import data from '../data/education.json'
 import { useState } from 'react'
-import Card from '@/components/Card'
+import Card from '@/components/Card/index'
 import Link from 'next/link'
 
-const inter = Inter({ subsets: ['latin'] })
+// const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   
@@ -33,13 +32,13 @@ export default function Home() {
                 if(info.department.toLowerCase() === "business"){
                   return(
                     // <div key={index}>{info.degree}</div>
-                    <Card key={index} degree={info.degree}  studentNumber={info.studentNumber} colour="red" font="10px"/>
+                    <Card key={index} degree={info.degree}  studentNumber={info.studentNumber} />
                   )
                 }
                 if(info.department.toLowerCase() === "computing"){
                   return(
                     // <div key={index}>{info.degree}</div>
-                    <Card key={index} degree={info.degree} studentNumber={info.studentNumber} colour="blue" font="50px"/>
+                    <Card key={index} degree={info.degree} studentNumber={info.studentNumber} />
                   )
                 }
               })

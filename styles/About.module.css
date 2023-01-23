@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.main {
+  background-color: rgb(19, 17, 17);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  padding: 3rem;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.nav{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  align-items: flex-start;
+  min-height: 4vh;
+  gap: 50px;
+  font-size: 18pt;
+  font-weight: 600;
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.nav > span:hover{
+  color:rgb(26, 170, 170);
+}
+
+.content{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-grow:1;
+  width: 100%;
+}
+
+.content > div{
+    position: relative;
+    width: 25vw;
+    min-width: 300px;
+    aspect-ratio: 1/1;
+    background-color: rgba(255, 255, 255, 0);
+    border-style: solid;
+    border-width: 0.5pt;
+    border-color: rgb(26, 170, 170);
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    box-shadow: 8px 8px;
+    color:black;
+}
+
+.content > div > div{
+    color:white;
+    font-size: 25pt;
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0;
+    flex-grow: 1;
+    
+}
+
+.content > div:hover{
+    background-color: rgb(26, 170, 170);
+    color:white;
+}
+
+.content > div > img{
+    width: 80%;
+}
+
+.subheading{
+    font-size: 10pt;
+    margin-bottom: 20px;
+}

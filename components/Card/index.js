@@ -2,7 +2,7 @@ export default function Card({
     degree = "none",
     colour ="purple",
     font = "0",
-    image= "icon/person-01.svg",
+    image= "icon/person01.svg",
     studentNumber= ""
 }) {
     return(
