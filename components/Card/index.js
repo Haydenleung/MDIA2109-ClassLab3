@@ -2,16 +2,20 @@ export default function Card({
     degree = "none",
     colour ="purple",
     font = "0",
-    image= "icon/personTwo.png"
+    image= "icon/person-01.svg",
+    studentNumber= ""
 }) {
     return(
-        <div style={{backgroundColor: colour, fontSize:font}}>
+        <div style={{fontSize:font}}>
             {
-                colour === "red" ?      <img src={'icon/person.png'} width = '50'/> :
-                colour === "blue" ?     <img src={'icon/personThree.png'} width = '50'/> :
-                                        <img src={image} width = '50'/>
+                studentNumber === "A0004567" ?  <img src={'icon/person-01.svg'} /> :
+                studentNumber === "A0001234" ?  <img src={'icon/person-02.svg'} /> :
+                studentNumber === "A0007890" ?  <img src={'icon/person-03.svg'} /> :
+                studentNumber === "A0007828" ?  <img src={'icon/person-04.svg'} /> :
+                studentNumber === "A0003425" ?  <img src={'icon/person-05.svg'} /> :
+                                                <img src={image}/>
             }
-            {degree}
+            <div>{degree}</div>
         </div>
     )
  }

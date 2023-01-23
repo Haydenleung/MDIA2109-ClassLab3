@@ -1,0 +1,14 @@
+[
+    {
+        "companyName": "Apple",
+        "department": "UI"
+    },
+    {
+        "companyName": "Microsoft",
+        "department": "Business"
+    },
+    {
+        "companyName": "Samsung",
+        "department": "Marketing"
+    }
+]

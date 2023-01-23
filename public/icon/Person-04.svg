@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: #f7feff;
+      }
+
+      .cls-4 {
+        fill: #f5f5f5;
+      }
+
+      .cls-5 {
+        fill: #e4b38b;
+      }
+
+      .cls-6 {
+        fill: #ebc5a9;
+      }
+
+      .cls-7 {
+        fill: #ededed;
+      }
+
+      .cls-8 {
+        fill: #dedede;
+      }
+
+      .cls-9 {
+        fill: #e0a77b;
+      }
+
+      .cls-10 {
+        fill: #d69d72;
+      }
+
+      .cls-11 {
+        fill: #231e2b;
+      }
+
+      .cls-12 {
+        fill: #402120;
+      }
+
+      .cls-13 {
+        fill: #5e3332;
+      }
+
+      .cls-14 {
+        fill: #522b29;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="0" width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <g>
+      <polygon class="cls-5" points="48.16 101.26 56.09 101.26 56.09 97.29 52.12 97.29 52.12 93.32 48.16 93.32 48.16 89.36 44.19 89.36 44.19 85.39 40.22 85.39 40.22 81.42 36.25 81.42 36.25 89.36 40.22 89.36 40.22 93.32 44.19 93.32 44.19 97.29 48.16 97.29 48.16 101.26"/>
+      <rect class="cls-10" x="44.19" y="97.29" width="3.97" height="3.97"/>
+      <rect class="cls-10" x="64.03" y="93.32" width="3.97" height="3.97"/>
+      <polygon class="cls-10" points="60.06 93.32 56.09 93.32 56.09 101.26 48.16 101.26 48.16 105.23 60.06 105.23 60.06 101.26 64.03 101.26 64.03 97.29 60.06 97.29 60.06 93.32"/>
+      <rect class="cls-10" x="40.22" y="93.32" width="3.97" height="3.97"/>
+      <rect class="cls-8" x="52.12" y="89.36" width="3.97" height="7.94"/>
+      <rect class="cls-10" x="36.25" y="89.36" width="3.97" height="3.97"/>
+      <rect class="cls-8" x="60.06" y="85.39" width="3.97" height="3.97"/>
+      <rect class="cls-7" x="56.09" y="85.39" width="3.97" height="7.94"/>
+      <rect class="cls-4" x="52.12" y="85.39" width="3.97" height="3.97"/>
+      <polygon class="cls-5" points="64.03 89.36 60.06 89.36 60.06 97.29 64.03 97.29 64.03 93.32 68 93.32 68 81.42 64.03 81.42 64.03 89.36"/>
+      <rect class="cls-7" x="60.06" y="77.45" width="3.97" height="7.94"/>
+      <rect class="cls-4" x="56.09" y="81.42" width="3.97" height="3.97"/>
+      <rect class="cls-10" x="52.12" y="81.42" width="3.97" height="3.97"/>
+      <rect class="cls-4" x="48.16" y="81.42" width="3.97" height="3.97"/>
+      <rect class="cls-8" x="40.22" y="81.42" width="3.97" height="3.97"/>
+      <rect class="cls-6" x="64.03" y="77.45" width="3.97" height="3.97"/>
+      <rect class="cls-5" x="52.12" y="77.45" width="3.97" height="3.97"/>
+      <polygon class="cls-10" points="48.16 81.42 52.12 81.42 52.12 77.45 56.09 77.45 56.09 73.49 48.16 73.49 48.16 81.42"/>
+      <polygon class="cls-7" points="44.19 81.42 44.19 89.36 48.16 89.36 48.16 93.32 52.12 93.32 52.12 85.39 48.16 85.39 48.16 77.45 40.22 77.45 40.22 81.42 44.19 81.42"/>
+      <rect class="cls-6" x="36.25" y="77.45" width="3.97" height="3.97"/>
+      <rect class="cls-8" x="56.09" y="73.49" width="3.97" height="7.94"/>
+      <rect class="cls-8" x="44.19" y="73.49" width="3.97" height="3.97"/>
+      <rect class="cls-9" x="40.22" y="69.52" width="27.77" height="3.97"/>
+      <rect class="cls-10" x="36.25" y="69.52" width="3.97" height="3.97"/>
+      <polygon class="cls-12" points="24.35 73.49 36.25 73.49 36.25 69.52 32.28 69.52 32.28 53.65 28.32 53.65 28.32 61.58 24.35 61.58 24.35 65.55 20.38 65.55 20.38 69.52 24.35 69.52 24.35 73.49"/>
+      <rect class="cls-9" x="68" y="65.55" width="3.97" height="3.97"/>
+      <rect class="cls-9" x="36.25" y="65.55" width="3.97" height="3.97"/>
+      <rect class="cls-14" x="75.93" y="61.58" width="3.97" height="3.97"/>
+      <polygon class="cls-12" points="75.93 49.68 71.96 49.68 71.96 69.52 68 69.52 68 73.49 75.93 73.49 75.93 69.52 79.9 69.52 79.9 65.55 75.93 65.55 75.93 49.68"/>
+      <polygon class="cls-10" points="36.25 49.68 28.32 49.68 28.32 53.65 32.28 53.65 32.28 69.52 36.25 69.52 36.25 49.68"/>
+      <rect class="cls-14" x="20.38" y="61.58" width="3.97" height="3.97"/>
+      <polygon class="cls-3" points="64.03 61.58 64.03 57.61 48.16 57.61 48.16 61.58 52.12 61.58 52.12 65.55 60.06 65.55 60.06 61.58 64.03 61.58"/>
+      <rect class="cls-13" x="20.38" y="57.61" width="3.97" height="3.97"/>
+      <rect class="cls-11" x="64.03" y="45.71" width="3.97" height="7.94"/>
+      <rect class="cls-11" x="44.19" y="45.71" width="3.97" height="7.94"/>
+      <rect class="cls-10" x="36.25" y="45.71" width="3.97" height="3.97"/>
+      <rect class="cls-12" x="32.28" y="45.71" width="3.97" height="3.97"/>
+      <rect class="cls-5" x="28.32" y="45.71" width="3.97" height="3.97"/>
+      <rect class="cls-14" x="24.35" y="45.71" width="3.97" height="15.87"/>
+      <path class="cls-5" d="m71.96,41.74h-3.97v-3.97h-7.94v3.97h-11.9v11.9h-3.97v-7.94h-3.97v3.97h-3.97v15.87h3.97v3.97h27.77v-3.97h3.97v-23.81Zm-19.84,23.81v-3.97h-3.97v-3.97h15.87v3.97h-3.97v3.97h-7.94Zm15.87-11.9h-3.97v-7.94h3.97v7.94Z"/>
+      <rect class="cls-10" x="44.19" y="41.74" width="3.97" height="3.97"/>
+      <rect class="cls-12" x="36.25" y="41.74" width="7.94" height="3.97"/>
+      <rect class="cls-13" x="24.35" y="41.74" width="3.97" height="3.97"/>
+      <rect class="cls-10" x="68" y="37.77" width="3.97" height="3.97"/>
+      <rect class="cls-10" x="52.12" y="37.77" width="7.94" height="3.97"/>
+      <rect class="cls-12" x="48.16" y="37.77" width="3.97" height="3.97"/>
+      <rect class="cls-10" x="60.06" y="33.81" width="7.94" height="3.97"/>
+      <rect class="cls-13" x="28.32" y="25.87" width="3.97" height="7.94"/>
+      <rect class="cls-13" x="71.96" y="25.87" width="3.97" height="3.97"/>
+      <rect class="cls-13" x="68" y="21.9" width="3.97" height="3.97"/>
+      <polygon class="cls-14" points="36.25 21.9 36.25 25.87 32.28 25.87 32.28 33.81 28.32 33.81 28.32 45.71 36.25 45.71 36.25 41.74 48.16 41.74 48.16 37.77 60.06 37.77 60.06 33.81 68 33.81 68 37.77 71.96 37.77 71.96 49.68 75.93 49.68 75.93 29.84 71.96 29.84 71.96 25.87 68 25.87 68 21.9 60.06 21.9 60.06 17.94 44.19 17.94 44.19 21.9 36.25 21.9"/>
+      <rect class="cls-13" x="32.28" y="21.9" width="3.97" height="3.97"/>
+      <rect class="cls-13" x="60.06" y="17.94" width="7.94" height="3.97"/>
+      <rect class="cls-13" x="40.22" y="17.94" width="3.97" height="3.97"/>
+    </g>
+  </g>
+</svg>
